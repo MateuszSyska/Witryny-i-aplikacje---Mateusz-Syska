@@ -1,0 +1,11 @@
+body{
+background-color: rgb(183 ,251 , 206 );
+color: black;
+font-family: 'Courier New', Courier, monospace;
+}
+h1 , h2 , h3 , h4 , h5{
+    background-color: rgb(231, 172, 131);
+}
+
+#zakończenie {background-color: rgb(253, 160, 176);
+color: rgb(164, 28, 28);}
