@@ -121,3 +121,39 @@ ul#auto {
 ul#movie {
     list-style-image: url('../images/movie.png');
 }
+
+.teardrop-l {
+    width: 50%;
+    border-top-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    text-align: left;
+}
+
+ul#OUTSIDE {
+    list-style-position: outside;
+}
+
+.teardrop-r {
+    width: 50%;
+    border-bottom-left-radius: 100px;
+    border-top-right-radius: 100px;
+    text-align: left;
+}
+
+ul#inside {
+    list-style-position: inside;
+}
+
+.sumary {
+    margin: 20px auto;
+    padding: 20px;
+    background-color: rgb(220, 230, 249);
+    width: 200px;
+    height: 200px;
+    border: 2px solid navy;
+    border-radius: 200px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0, 5);
+}
+.sumary h2{text-align: center;}
+
+ul#all{list-style: inside circle;}
