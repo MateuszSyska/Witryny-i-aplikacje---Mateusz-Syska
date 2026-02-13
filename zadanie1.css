@@ -1,0 +1,18 @@
+.red{background-color: red;
+height: 50px;
+width: 100px;
+color: yellow;}
+
+.blue{background-color: blue;
+height: 50px;
+width: 100px;
+color: white ;}
+
+.green{height: 50px;
+width: 100px;
+background-color: green;
+color: lightgreen;}
+
+.offset{position: relative;
+top: 10px;
+left: 30px;}

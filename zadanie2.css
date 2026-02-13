@@ -1,0 +1,35 @@
+.kwadrat{background-color: beige;
+height: 100px;
+width: 100px;
+position: relative;
+}
+
+.kolo{height: 30px;
+width: 30px;
+border-radius: 30px;
+background-color: red;
+position: relative;
+bottom: 90px;
+left: 70px;}
+
+.kolo2{height: 30px;
+width: 30px;
+border-radius: 30px;
+background-color: yellow;
+position: relative;
+bottom: 115px;
+left: 5px;}
+.kolo3{height: 30px;
+width: 30px;
+border-radius: 30px;
+background-color: green;
+position: relative;
+bottom: 80px;
+left: 70px;}
+.kolo4{height: 30px;
+width: 30px;
+border-radius: 30px;
+background-color: blue;
+position: relative;
+bottom: 105px;
+left: 5px;}
