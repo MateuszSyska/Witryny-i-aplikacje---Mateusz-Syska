@@ -1,0 +1,23 @@
+*{box-sizing: border-box;
+}
+
+
+div.Produkt{margin: 100px;
+width: 200px;
+height: 300px;
+background-color: gray;
+position: relative;
+}
+div.Etykieta{width: 100px;
+top: -25px;
+left: -25px;
+height: 50px;
+background-color: green;
+color: white;
+line-height: 50px;
+text-align: center;
+font-size: 16px;
+position: absolute;
+}
+img{height: 300px;
+width: 200px;}

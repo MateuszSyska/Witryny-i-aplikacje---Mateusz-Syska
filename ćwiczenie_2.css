@@ -1,0 +1,31 @@
+div.rodzic{width: 400px;
+height: 400px;
+background-color: aqua;
+position: relative;
+border-radius: 400px;}
+
+div.dziecko{height: 250px;
+    width: 250px;
+    border-radius: 250px;
+    top: 50%;
+    left: 50%;
+    background-color: lime;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+div.wnuk {height: 100px;
+    width: 100px;
+    border-radius: 100px;
+    top: 50%;
+    left: 50%;
+    background-color: red;
+    position: absolute;
+    transform: translate(-50%,-50%);}
+div.prawnuk{top: 50%;
+    left: 50%;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: navy;
+    transform: translate(-50%,-50%);}
