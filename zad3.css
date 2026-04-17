@@ -1,0 +1,16 @@
+#glowny {
+        background-color: lightgray;
+        width: max(80%, 400px); 
+        height: 300px;
+        margin-left: auto;
+        margin-right: auto;
+        padding:  10px 30px 30px 30px; 
+    }
+
+.tekst {
+        background-color: white;
+        width: calc(100% - 40px);
+        height: min(150px, 100px);
+        padding: 20px;
+        overflow: hidden;
+    }

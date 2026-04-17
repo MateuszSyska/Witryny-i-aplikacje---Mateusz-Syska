@@ -1,0 +1,6 @@
+.baner{ margin-left: calc(100%-60px);
+        margin-right: calc(100%-60px);}
+
+h1{font-size:min(24px ,5vw);}
+
+.foto{width: max(800px , 100%);}
